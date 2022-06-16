@@ -1,1 +1,1 @@
-brainfuck 
+Stacks, Queues - LIFO, FIFO
